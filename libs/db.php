@@ -1,5 +1,5 @@
 <?php
 $config = [
-    'title' => 'Блог IT_Минималиста',
+    'title' => 'Вопросник',
 ];
 $connection = mysqli_connect('localhost', 'root', '', 'blog' );
